@@ -3,7 +3,7 @@ title: "Movielens Recommendation System - edX Data science course PH125.9x"
 author: "Gianluca Turco"
 date: "March 22, 2019"
 output:
-  html_document:
+  pdf_document:
     number_sections: yes
     sansfont: Calibri Light
     toc: yes
